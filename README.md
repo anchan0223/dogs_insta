@@ -19,7 +19,9 @@ The following STRETCH features are implemented:
 
 ## Video Demo 
 Here's a video / GIF that demos all of the app's implemented features: 
+
 ![](https://github.com/anchan0223/dogs_insta/blob/master/Project6.gif)
+
 Video Demo GIF created with **ScreentoGif** 
 
 ## License Copyright 
