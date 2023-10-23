@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">testing</string>
+    <string name="user_name_image1">jjpaul</string>
+    <string name="user_name_image2">dogsluvr</string>
+    <string name="user_name_image3">smalldogs</string>
+    <string name="user_name_image4">fluffydogs</string>
+    <string name="user_name_image5">PupLuvr</string>
+    <string name="user_name_image6">Paws4U</string>
+    <string name="user_name_image7">PetPal</string>
+    <string name="user_name_image8">waggy</string>
+    <string name="user_name_image9">WoofJoy</string>
+    <string name="user_name_image10">K9MAX</string>
+    <string name="default_user_name">barkBark</string>
+
+    <string name="like_count_image1">0</string>
+    <string name="like_count_image2">5</string>
+    <string name="like_count_image3">24</string>
+    <string name="like_count_image4">1</string>
+    <string name="like_count_image5">59</string>
+    <string name="like_count_image6">14</string>
+    <string name="like_count_image7">88</string>
+    <string name="like_count_image8">31</string>
+    <string name="like_count_image9">91</string>
+    <string name="like_count_image10">8</string>
+    <string name="default_like_count">40</string>
+</resources>
